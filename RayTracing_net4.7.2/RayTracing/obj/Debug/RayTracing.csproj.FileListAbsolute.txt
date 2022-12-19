@@ -1,0 +1,54 @@
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.AssemblyReference.cache
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CopyComplete
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+C:\Users\m.navdaeva\source\repos\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.AssemblyReference.cache
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CopyComplete
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+C:\Users\m.navdaeva\Documents\OpenGLRayTracing\RayTracing\RayTracing\obj\Debug\RayTracing.pdb
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\RayTracing.exe.config
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\RayTracing.exe
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\RayTracing.pdb
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\OpenTK.dll
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\OpenTK.pdb
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\OpenTK.xml
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.AssemblyReference.cache
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.Form1.resources
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.csproj.CopyComplete
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.exe
+C:\Users\m.navdaeva\Documents\Новая папка\RayTracing\RayTracing\obj\Debug\RayTracing.pdb

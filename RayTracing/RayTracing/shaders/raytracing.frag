@@ -97,7 +97,7 @@ SCamera initializeDefaultCamera()
     return camera;
 }
 
-void initializeDefaultScene(out STriangle triangles[10], out SSphere spheres[2])
+void initializeDefaultScene(out STriangle triangles[10], out SSphere spheres[3])
 {
 	/** TRIANGLES **/
 	/* left wall */
@@ -163,6 +163,10 @@ void initializeDefaultScene(out STriangle triangles[10], out SSphere spheres[2])
 	spheres[1].Center = vec3(2.0, 1.0, 2.0);
 	spheres[1].Radius = 1.0;
 	spheres[1].MaterialIdx = 1;
+
+    spheres[2].Center = vec3(1.0, 1.0, -1.0);
+	spheres[2].Radius = 0.5;
+	spheres[2].MaterialIdx = 4;
 }
 
 void initializeDefaultLightMaterials(out SLight light, out SMaterial materials[6])
@@ -284,7 +288,7 @@ bool IntersectTriangle (SRay ray, vec3 v1, vec3 v2, vec3 v3, out float time )
     return true;
 }
 
-bool Raytrace ( SRay ray, SSphere spheres[2], STriangle triangles[10], SMaterial materials[6],
+bool Raytrace ( SRay ray, SSphere spheres[3], STriangle triangles[10], SMaterial materials[6],
     float start, float final, inout SIntersection intersect )
 {
     bool result = false;
@@ -292,7 +296,7 @@ bool Raytrace ( SRay ray, SSphere spheres[2], STriangle triangles[10], SMaterial
     intersect.Time = final;
 
     //calculate intersect with spheres
-    for (int i = 0; i < 2; i++)
+    for (int i = 0; i < 3; i++)
     {
         SSphere sphere = spheres[i];
         if( IntersectSphere (sphere, ray, start, final, test ) && test < intersect.Time )
@@ -343,7 +347,7 @@ bool Raytrace ( SRay ray, SSphere spheres[2], STriangle triangles[10], SMaterial
     return result;
 }
 
-float Shadow(SSphere spheres[2], STriangle triangles[10],
+float Shadow(SSphere spheres[3], STriangle triangles[10],
     SMaterial materials[6], SLight currLight, SIntersection intersect)
 {
     // Point is lighted
@@ -383,7 +387,7 @@ vec3 Phong ( SRay ray, SIntersection intersect, SLight currLight, float shadowin
 void main (void)
 {
     STriangle triangles[10];
-    SSphere spheres[2];
+    SSphere spheres[3];
     SLight light;
     SMaterial materials[6];
     
